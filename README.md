@@ -4,8 +4,6 @@ A modern, interactive card management system built with vanilla JavaScript, feat
 
 ![Card Management Interface](docs/images/v0.png)
 
-## Features Demo
-https://github.com/edrdavid1/Card-Form.git
 ### Adding a New Card
 ![Adding New Card](docs/images/v1.gif)
 
